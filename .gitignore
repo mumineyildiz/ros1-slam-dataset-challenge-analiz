@@ -1,0 +1,3 @@
+# Local ROS recordings
+*.bag
+*.bag.active
